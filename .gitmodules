@@ -1,3 +1,6 @@
 [submodule "g15_STM32"]
 	path = g15_STM32
 	url = git@github.com:RyutoTanaka/g15_STM32.git
+[submodule "src/g15_description"]
+	path = src/g15_description
+	url = git@github.com:RyutoTanaka/g15_description_ros2.git
