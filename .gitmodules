@@ -10,3 +10,6 @@
 [submodule "src/g15_control"]
 	path = src/g15_control
 	url = https://github.com/RyutoTanaka/g15_control_ros2.git
+[submodule "kiks_lib"]
+	path = kiks_lib
+	url = https://github.com/kiksworks/kiks_lib.git
