@@ -1,0 +1,4 @@
+g15/ai_bridge_ai_command:
+    ros__parameters:
+        recv_ids : [0]
+        publish_nss : ["g15"]

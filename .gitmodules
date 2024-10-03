@@ -7,3 +7,6 @@
 [submodule "src/g15_control"]
 	path = src/g15_control
 	url = https://github.com/RyutoTanaka/g15_control_ros2.git
+[submodule "src/kiks_ai_bridge"]
+	path = src/kiks_ai_bridge
+	url = https://github.com/RyutoTanaka/kiks_ai_bridge_ros.git
