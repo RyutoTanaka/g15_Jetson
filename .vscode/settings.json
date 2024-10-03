@@ -62,5 +62,6 @@
         "typeindex": "cpp",
         "typeinfo": "cpp",
         "can_data.h": "c"
-    }
+    },
+    "cmake.sourceDirectory": "/home/g15/Documents/g15_Jetson/src/g15_control"
 }
