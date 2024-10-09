@@ -63,5 +63,13 @@
         "typeinfo": "cpp",
         "can_data.h": "c"
     },
-    "cmake.sourceDirectory": "/home/g15/Documents/g15_Jetson/src/g15_control"
+    "cmake.sourceDirectory": "/home/g15/Documents/g15_Jetson/src/g15_control",
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
 }
